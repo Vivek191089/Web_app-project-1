@@ -12,4 +12,4 @@ st.set_page_config(
         'About': "# This is a header. This is an *extremely* cool app!"
     }
 )
-st.title("sale_dashboard")
+st.title(":100: sales dashboard")
