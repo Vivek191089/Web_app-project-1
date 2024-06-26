@@ -12,4 +12,4 @@ st.set_page_config(
         'About': "# This is a header. This is an *extremely* cool app!"
     }
 )
-st.title(":100: sales dashboard")
+st.title(":bar_chart: sales dashboard")
